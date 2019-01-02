@@ -1,5 +1,12 @@
 package stringHandling;
 
+
+//StringBuffer ve StringBuilder cok benzer, ayni methodlar
+//Always go with StringBuffer
+//StringBuffer is thread-safe
+//StringBuilder is not thread-safe
+
+
 public class StringMutable {
 
 	public static void main(String[] args) {
