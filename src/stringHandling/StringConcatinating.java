@@ -14,9 +14,9 @@ public class StringConcatinating {
 		str1 = sc.next();
 		str2 = sc.next();
 		
-		String str3 = str1.concat(str2);
+		String str3 = str1.concat(str2);  // veya bu sekilde yaparsin --> String str3 =str1 + str2;
 		
 		System.out.println("Birlesik kelime : " + str3);
-	}
+	} 
 
 }
