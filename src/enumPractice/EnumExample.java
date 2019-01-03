@@ -20,6 +20,7 @@ public class EnumExample {
 			
 		case SAMSUNG:
 			System.out.println("Samsung is way better");
+			break;
 		}
 		
 	}
